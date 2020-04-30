@@ -1,0 +1,14 @@
+{ "tokat" : [
+    { 
+        "isim" :"Ballıca Mağarası",
+         "aciklama":"Bol oksijen, Dağın tepesinden yaklaşık 300 metre aşağıya iniliyor",
+         "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/ballica.png"
+    },
+    {
+        "isim":"Kaz Gölü",
+        "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+        "fotourl":"https://raw.githubusercontent.com/linusyagiz/toguceng/master/kazgolu.png"
+    } 
+
+
+]}
